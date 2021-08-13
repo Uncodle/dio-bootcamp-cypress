@@ -1,0 +1,6 @@
+# DEBUG Log
+debug.log
+
+# Cypress Files
+/cypress/videos
+/cypress/screenshots
